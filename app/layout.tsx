@@ -23,6 +23,9 @@ export const metadata: Metadata = {
   description:
     "THE ONLINE MUSIC SCHOOL LTD is a UK-based education company focused on online music education and digital music learning.",
   applicationName: "THE ONLINE MUSIC SCHOOL LTD",
+  verification: {
+    google: "iEHLni3XPNPeXarPAB71Zt7zfRRKqt80Nxdp34B8pBQ",
+  },
   robots: {
     index: true,
     follow: true,
